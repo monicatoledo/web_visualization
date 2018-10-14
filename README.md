@@ -1,2 +1,2 @@
-# web_visualization.github.io
+# HTML-CSS
 html web visualization for weather data
